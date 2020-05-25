@@ -1,0 +1,1 @@
+C:\Users\visha\AndroidStudioProjects\Trending\buildSrc\build\classes\kotlin\main\Dependencies.class;C:\Users\visha\AndroidStudioProjects\Trending\buildSrc\build\classes\kotlin\main\Versions.class
