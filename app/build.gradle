@@ -32,6 +32,7 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+
     implementation Dependencies.kotlinStandardLibrary
     implementation Dependencies.appcompat
     implementation Dependencies.core_ktx
