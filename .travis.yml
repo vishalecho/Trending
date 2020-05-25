@@ -26,4 +26,5 @@ before_script:
   - mkdir -p "$ANDROID_HOME/licenses"
   - cp ./google-licenses/* "$ANDROID_HOME/licenses/"
 script:
-  - chmod +x ./gradlew build check
+  - chmod +x gradlew
+  - ./gradlew build check
